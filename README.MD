@@ -11,7 +11,7 @@ Hardware Requirements
 -----------------------
 * Adafruit MPR121 capacitive touch sensor
 * WS2812 LED strip (106 LEDs)
-* Arduino-compatible board (e.g. Arduino Uno)
+* Arduino-compatible board (Arduino Uno, I used a NodeMCU8266)
 
 Software Requirements
 -----------------------
