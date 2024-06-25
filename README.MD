@@ -42,7 +42,7 @@ The `rainbow()` function is used to generate the colorful, animated pattern in r
 
 Video
 ------
-This is a remix of the work done by ReAmped, Do check out his
+This is a remix of the work done by ReAmped, What I did was to use a touch sensor that enables user to switch on and off the leds and change colors on command. Do check out his
 [demo video on YouTube](https://youtu.be/tmwMuNbyuO8)
 
 License
