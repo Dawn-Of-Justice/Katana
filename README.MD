@@ -42,8 +42,8 @@ The `rainbow()` function is used to generate the colorful, animated pattern in r
 
 Video
 ------
-This is a remix of the work done by ReAmped, Do check out his video below
-[Watch the demo video on YouTube](https://youtu.be/tmwMuNbyuO8)
+This is a remix of the work done by ReAmped, Do check out his
+[demo video on YouTube](https://youtu.be/tmwMuNbyuO8)
 
 License
 ---------
